@@ -241,7 +241,7 @@
   background-color: #1f1f1f;
   position: relative;
   z-index: -2;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .kaufman__triangle-illustration {
