@@ -1,0 +1,7 @@
+.video__iframes {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  border: 3px solid navy;
+}
