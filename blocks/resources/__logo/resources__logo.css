@@ -4,7 +4,6 @@
 }
 
 .resources__logo:hover {
-  background-color: #000080;
-  opacity: .7;
-  transition: 4s ease-in;
+  opacity: .3;
+  transition: 1s ease-in;
 }
